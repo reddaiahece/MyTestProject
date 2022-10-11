@@ -1,0 +1,14 @@
+D:\workspace .net training\WebApplication3\ClassLibrary3\bin\Debug\net6.0\EFCoreDB.deps.json
+D:\workspace .net training\WebApplication3\ClassLibrary3\bin\Debug\net6.0\EFCoreDB.runtimeconfig.json
+D:\workspace .net training\WebApplication3\ClassLibrary3\bin\Debug\net6.0\EFCoreDB.dll
+D:\workspace .net training\WebApplication3\ClassLibrary3\bin\Debug\net6.0\EFCoreDB.pdb
+D:\workspace .net training\WebApplication3\ClassLibrary3\obj\Debug\net6.0\EFCoreDB.csproj.AssemblyReference.cache
+D:\workspace .net training\WebApplication3\ClassLibrary3\obj\Debug\net6.0\EFCoreDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace .net training\WebApplication3\ClassLibrary3\obj\Debug\net6.0\EFCoreDB.AssemblyInfoInputs.cache
+D:\workspace .net training\WebApplication3\ClassLibrary3\obj\Debug\net6.0\EFCoreDB.AssemblyInfo.cs
+D:\workspace .net training\WebApplication3\ClassLibrary3\obj\Debug\net6.0\EFCoreDB.csproj.CoreCompileInputs.cache
+D:\workspace .net training\WebApplication3\ClassLibrary3\obj\Debug\net6.0\EFCoreDB.dll
+D:\workspace .net training\WebApplication3\ClassLibrary3\obj\Debug\net6.0\refint\EFCoreDB.dll
+D:\workspace .net training\WebApplication3\ClassLibrary3\obj\Debug\net6.0\EFCoreDB.pdb
+D:\workspace .net training\WebApplication3\ClassLibrary3\obj\Debug\net6.0\EFCoreDB.genruntimeconfig.cache
+D:\workspace .net training\WebApplication3\ClassLibrary3\obj\Debug\net6.0\ref\EFCoreDB.dll
